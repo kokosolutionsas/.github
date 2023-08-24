@@ -2,10 +2,11 @@
 ​
 [Change!] Describe your feature, problems you had, notes, improvements and others.
 ​
+
 ## Screenshots
 ​
 [Change!] Show the screenshots of the views you modified.
 ​
-## Jira Card
+## Github Issue
 ​
-[Change!] Link to the associated Jira card.
+[Change!] Link to the associated issue.
